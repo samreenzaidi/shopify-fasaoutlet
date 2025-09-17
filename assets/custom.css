@@ -1,0 +1,7 @@
+.MuiButton-containedPrimary, .MuiIconButton-label {
+    color: #000 !important;
+}
+
+.MuiBadge-root a {
+    background-color: #000 !important;
+}
