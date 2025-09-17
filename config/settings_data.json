@@ -140,6 +140,26 @@
         "type": "shopify://apps/air-reviews-1/blocks/app-embed/c4e1e9ca-4d46-4e76-bc39-7e42417cb327",
         "disabled": false,
         "settings": {}
+      },
+      "6406956604159796213": {
+        "type": "shopify://apps/smart-seo/blocks/smartseo/7b0a6064-ca2e-4392-9a1d-8c43c942357b",
+        "disabled": false,
+        "settings": {}
+      },
+      "4976129024724438625": {
+        "type": "shopify://apps/smart-seo/blocks/brokenLinkDetection/7b0a6064-ca2e-4392-9a1d-8c43c942357b",
+        "disabled": false,
+        "settings": {}
+      },
+      "18423266570658624584": {
+        "type": "shopify://apps/beast-currency-converter/blocks/doubly/267afa86-a419-4d5b-a61b-556038e7294d",
+        "disabled": false,
+        "settings": {}
+      },
+      "3294164036280357830": {
+        "type": "shopify://apps/mlv-auto-currency-switcher/blocks/mlveda-currencies-head/92ab730f-097e-4571-b27c-3f449e098ca3",
+        "disabled": false,
+        "settings": {}
       }
     },
     "color_schemes": {
@@ -195,6 +215,28 @@
           "button": "#ffffff",
           "button_label": "#334fb4",
           "secondary_button_label": "#ffffff",
+          "shadow": "#121212"
+        }
+      },
+      "scheme-6747a30f-31f5-485f-9950-399c35f81653": {
+        "settings": {
+          "background": "{{ shop.brand.colors.primary[0].background }}",
+          "background_gradient": "linear-gradient(180deg, rgba(113, 60, 52, 1), rgba(241, 196, 196, 1) 38%)",
+          "text": "#ffffff",
+          "button": "#da1f1f",
+          "button_label": "#ffffff",
+          "secondary_button_label": "#ffffff",
+          "shadow": "#121212"
+        }
+      },
+      "scheme-0a0df71c-e0e7-4295-98e5-270d5205dd6d": {
+        "settings": {
+          "background": "#713c34",
+          "background_gradient": "",
+          "text": "#ffffff",
+          "button": "#121212",
+          "button_label": "#ffffff",
+          "secondary_button_label": "#121212",
           "shadow": "#121212"
         }
       }

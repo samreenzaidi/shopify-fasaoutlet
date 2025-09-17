@@ -1,0 +1,24 @@
+{
+  "parent": "header-group.json",
+  "context": {
+    "market": "ae"
+  },
+  "sections": {
+    "announcement-bar": {
+      "settings": {},
+      "blocks": {
+        "announcement-bar-0": {
+          "settings": {
+            "text": "Get Flat 10% Welcome Offer, Use Code: WELCOME10 | UAE"
+          }
+        }
+      }
+    },
+    "header": {
+      "settings": {
+        "logo_position": "middle-left"
+      },
+      "blocks": {}
+    }
+  }
+}

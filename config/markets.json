@@ -1,0 +1,10 @@
+{
+  "markets": {
+    "ae": {
+      "parent": "@default"
+    },
+    "international": {
+      "parent": "@default"
+    }
+  }
+}
