@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -53,6 +62,22 @@
             "inventory_threshold": 10,
             "show_inventory_quantity": true
           }
+        },
+        "wishlist_hero_custom_product_button_yPrnTX": {
+          "type": "shopify://apps/wishlist-hero/blocks/custom-product-button/a9a5079b-59e8-47cb-b659-ecf1c60b9b72",
+          "settings": {
+            "displayButtonMode": "~",
+            "contentAlignment": "center",
+            "buttonAlignment": "center",
+            "overrideFont": false,
+            "customFont": "sans_serif_n4",
+            "buttonFullwidth": true,
+            "removeBoxShadowAndBorder": false,
+            "horizontalPadding": 20,
+            "iconTopOffset": 0,
+            "addedCssClassNames": "",
+            "addedContainerStyles": ""
+          }
         }
       },
       "block_order": [
@@ -64,7 +89,8 @@
         "variant-picker",
         "quantity-selector",
         "buy_buttons",
-        "product-inventory"
+        "product-inventory",
+        "wishlist_hero_custom_product_button_yPrnTX"
       ],
       "settings": {
         "enable_sticky_info": true,
