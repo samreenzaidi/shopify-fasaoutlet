@@ -1,12 +1,3 @@
-/*
- * ------------------------------------------------------------
- * IMPORTANT: The contents of this file are auto-generated.
- *
- * This file may be updated by the Shopify admin theme editor
- * or related systems. Please exercise caution as any changes
- * made to this file may be overwritten.
- * ------------------------------------------------------------
- */
 {
   "current": {
     "logo": "shopify://shop_images/fasa_outlet_logo.png",
@@ -165,44 +156,12 @@
         "disabled": false,
         "settings": {}
       },
-      "3294164036280357830": {
-        "type": "shopify://apps/mlv-auto-currency-switcher/blocks/mlveda-currencies-head/92ab730f-097e-4571-b27c-3f449e098ca3",
-        "disabled": false,
-        "settings": {}
-      },
       "7870687481494312845": {
         "type": "shopify://apps/wishlist-hero/blocks/app-embed/a9a5079b-59e8-47cb-b659-ecf1c60b9b72",
         "disabled": false,
         "settings": {
           "additionalWLButtonCssClasses": "",
           "additionalWLCartBubbleCssClasses": ""
-        }
-      },
-      "10274264662263595587": {
-        "type": "shopify://apps/wishlist-plus/blocks/wishlist-collections-embed/80c3b1fc-3a8f-407e-8367-ffdeebb8b612",
-        "disabled": true,
-        "settings": {
-          "swym_collections_icon_type": "heart",
-          "swym_collections_icon_thickness": 1.7,
-          "swym_collections_position": "top-right",
-          "swym_collections_vertical_offset": 0,
-          "swym_collections_horizontal_offset": 0,
-          "swym_collections_button_size": 25,
-          "swym_collections_icon_color": "#000000",
-          "swym_collections_product_link_selector": "-",
-          "swym_collections_product_tile_selector": "-",
-          "enable_variant_selector": true,
-          "swym_add_to_wishlist_title_color": "#333333",
-          "swym_variant_selector_font_size_1": 14,
-          "swym_variant_selector_popup_bg_color": "#ffffff",
-          "swym_variant_selector_section_heading_color": "#000000",
-          "swym_variant_selector_section_heading_font_size_2": 12,
-          "swym_variant_selector_choose_create_text": "Choose or Create new Wishlist",
-          "swym_variant_selector_wishlist_btn_bg_color": "#292929",
-          "swym_variant_selector_wishlist_btn_color": "#ffffff",
-          "swym_variant_selector_product_detail_font_color": "#ffffff",
-          "swym_variant_selector_create_list_placeholder_text": "Enter wishlist name",
-          "swym_variant_selector_create_list_title": "Name Your Wishlist"
         }
       },
       "10486658301671024706": {
@@ -243,20 +202,11 @@
           "PriceColor": "#121212"
         }
       },
-      "5946647744298494267": {
-        "type": "shopify://apps/wishlist-plus/blocks/wishlist-app-embed/80c3b1fc-3a8f-407e-8367-ffdeebb8b612",
-        "disabled": true,
+      "11320579242087869063": {
+        "type": "shopify://apps/codify-order-cancel/blocks/cancel_button/f7f8a269-b6ea-461a-8e1b-d61167f44926",
+        "disabled": false,
         "settings": {
-          "storefront_layout_enabled": true,
-          "storefront_layout_primary_bg_color": "#000000",
-          "storefront_layout_primary_text_color": "#ffffff",
-          "storefront_layout_secondary_bg_color": "#ffffff",
-          "storefront_layout_secondary_text_color": "#da1f1f",
-          "storefront_layout_ui_border_radius": 6,
-          "storefront_layout_notification_position": "left",
-          "storefront_layout_action_popup_position": "left",
-          "storefront_layout_drawer_position": "left",
-          "storefront_layout_as_section_page": "swym-wishlist"
+          "custom_class": ""
         }
       }
     },
