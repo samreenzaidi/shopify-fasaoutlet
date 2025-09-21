@@ -145,11 +145,6 @@
     },
     "content_for_index": [],
     "blocks": {
-      "0255371543600104802": {
-        "type": "shopify://apps/air-reviews-1/blocks/app-embed/c4e1e9ca-4d46-4e76-bc39-7e42417cb327",
-        "disabled": false,
-        "settings": {}
-      },
       "6406956604159796213": {
         "type": "shopify://apps/smart-seo/blocks/smartseo/7b0a6064-ca2e-4392-9a1d-8c43c942357b",
         "disabled": false,
@@ -217,6 +212,16 @@
         "settings": {
           "custom_class": ""
         }
+      },
+      "6097499278999377719": {
+        "type": "shopify://apps/globo-mega-menu/blocks/app-embed/7a00835e-fe40-45a5-a615-2eb4ab697b58",
+        "disabled": false,
+        "settings": {}
+      },
+      "7161394637304097644": {
+        "type": "shopify://apps/convercy/blocks/switcher_embed_block/f5c93801-24e1-4f0e-89db-62f45c9c55b5",
+        "disabled": false,
+        "settings": {}
       }
     },
     "color_schemes": {
