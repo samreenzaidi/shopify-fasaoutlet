@@ -8,15 +8,9 @@
  * ------------------------------------------------------------
  */
 {
-  "markets": {
-    "ae": {
-      "parent": "@default"
-    },
-    "india": {
-      "parent": "@default"
-    },
-    "international": {
-      "parent": "@default"
-    }
-  }
+  "parent": "index.json",
+  "context": {
+    "market": "india"
+  },
+  "sections": {}
 }

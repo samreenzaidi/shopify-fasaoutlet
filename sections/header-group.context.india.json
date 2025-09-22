@@ -8,9 +8,20 @@
  * ------------------------------------------------------------
  */
 {
-  "parent": "footer-group.json",
+  "parent": "header-group.json",
   "context": {
-    "market": "international"
+    "market": "india"
   },
-  "sections": {}
+  "sections": {
+    "announcement-bar": {
+      "settings": {},
+      "blocks": {
+        "announcement-bar-0": {
+          "settings": {
+            "text": "Get Flat 10% Welcome Offer, Use Code: WELCOME10 | India"
+          }
+        }
+      }
+    }
+  }
 }
