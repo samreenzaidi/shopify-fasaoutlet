@@ -17,6 +17,7 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
+            "text": "Get Flat 10% Welcome Offer, Use Code: WELCOME10",
             "link": ""
           }
         }
@@ -25,19 +26,40 @@
         "announcement-bar-0"
       ],
       "settings": {
-        "color_scheme": "scheme-1",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "color_scheme": "scheme-0a0df71c-e0e7-4295-98e5-270d5205dd6d",
         "show_line_separator": true,
         "show_social": false,
-        "auto_rotate": false,
-        "change_slides_speed": 5,
         "enable_country_selector": false,
         "enable_language_selector": false
       }
     },
     "header": {
       "type": "header",
+      "blocks": {
+        "wishlist_hero_header_icon_BzVVhD": {
+          "type": "shopify://apps/wishlist-hero/blocks/header-icon/a9a5079b-59e8-47cb-b659-ecf1c60b9b72",
+          "settings": {
+            "customThemeName": "~",
+            "useCustomHeaderColor": false,
+            "customHeaderColor": "",
+            "useCustomHeaderSize": false,
+            "customHeaderIconSize": 22,
+            "additionalIconCssClassNames": "",
+            "additionalIconStyle": "",
+            "additionalContainerClasses": "",
+            "additionalContainerStyle": "",
+            "replaceExistingClasses": false
+          }
+        }
+      },
+      "block_order": [
+        "wishlist_hero_header_icon_BzVVhD"
+      ],
       "settings": {
         "logo_position": "middle-left",
+        "mobile_logo_position": "center",
         "menu": "main-menu",
         "menu_type_desktop": "dropdown",
         "sticky_header_type": "on-scroll-up",
@@ -47,7 +69,6 @@
         "enable_country_selector": true,
         "enable_language_selector": true,
         "enable_customer_avatar": true,
-        "mobile_logo_position": "center",
         "margin_bottom": 0,
         "padding_top": 20,
         "padding_bottom": 20

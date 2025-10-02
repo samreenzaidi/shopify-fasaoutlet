@@ -15,16 +15,19 @@
         "slide-0": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/banner-1.jpg",
+            "image_overlay_opacity": 0,
+            "heading": "Experience Your Style",
             "heading_size": "h1",
             "subheading": "",
-            "link": "shopify://collections",
+            "button_label": "Shop Now",
+            "link": "shopify://collections/all",
             "button_style_secondary": false,
-            "box_align": "middle-right",
             "show_text_box": false,
-            "text_alignment": "left",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
-            "text_alignment_mobile": "center"
+            "box_align": "middle-right",
+            "text_alignment": "right",
+            "text_alignment_mobile": "center",
+            "color_scheme": "scheme-0a0df71c-e0e7-4295-98e5-270d5205dd6d"
           }
         }
       },
@@ -38,24 +41,27 @@
         "auto_rotate": false,
         "change_slides_speed": 5,
         "image_behavior": "none",
-        "show_text_below": true
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
       }
     },
     "all-products": {
       "type": "featured-collection",
       "settings": {
+        "collection": "occasion-wear",
+        "products_to_show": 4,
+        "title": "Featured collection",
         "heading_size": "h2",
+        "description": "",
         "show_description": true,
         "description_style": "subtitle",
-        "collection": "all",
-        "products_to_show": 24,
-        "columns_desktop": 6,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
+        "columns_desktop": 4,
         "enable_desktop_slider": false,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
         "color_scheme": "scheme-1",
-        "image_ratio": "adapt",
+        "image_ratio": "portrait",
         "image_shape": "default",
         "show_secondary_image": true,
         "show_vendor": false,
@@ -73,25 +79,25 @@
         "collection-0": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "abayas"
           }
         },
         "collection-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "hijabs"
           }
         },
         "collection-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "occasion-collection"
           }
         },
         "collection-3": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "occasion-wear"
           }
         }
       },
@@ -102,6 +108,7 @@
         "collection-3"
       ],
       "settings": {
+        "title": "Collections",
         "heading_size": "h2",
         "image_ratio": "square",
         "columns_desktop": 4,
@@ -116,15 +123,17 @@
     "image-banner": {
       "type": "image-banner",
       "settings": {
+        "image": "shopify://shop_images/banner-4.jpg",
+        "image_2": "shopify://shop_images/banner-3.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
-        "desktop_content_position": "top-left",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
         "image_behavior": "none",
-        "mobile_content_alignment": "center",
+        "desktop_content_position": "top-left",
+        "desktop_content_alignment": "center",
+        "show_text_box": false,
+        "color_scheme": "",
         "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
         "show_text_below": true
       }
     }
