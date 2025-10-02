@@ -208,14 +208,14 @@
           "custom_class": ""
         }
       },
-      "6097499278999377719": {
-        "type": "shopify://apps/globo-mega-menu/blocks/app-embed/7a00835e-fe40-45a5-a615-2eb4ab697b58",
-        "disabled": false,
-        "settings": {}
-      },
       "7161394637304097644": {
         "type": "shopify://apps/convercy/blocks/switcher_embed_block/f5c93801-24e1-4f0e-89db-62f45c9c55b5",
         "disabled": false,
+        "settings": {}
+      },
+      "6097499278999377719": {
+        "type": "shopify://apps/globo-mega-menu/blocks/app-embed/7a00835e-fe40-45a5-a615-2eb4ab697b58",
+        "disabled": true,
         "settings": {}
       }
     },

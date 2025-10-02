@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "hero-slideshow": {
@@ -16,9 +25,9 @@
             "button_style_secondary": false,
             "show_text_box": false,
             "box_align": "middle-right",
-            "text_alignment": "center",
+            "text_alignment": "right",
             "text_alignment_mobile": "center",
-            "color_scheme": "scheme-1"
+            "color_scheme": "scheme-0a0df71c-e0e7-4295-98e5-270d5205dd6d"
           }
         }
       },
@@ -39,7 +48,7 @@
     "all-products": {
       "type": "featured-collection",
       "settings": {
-        "collection": "all",
+        "collection": "occasion-wear",
         "products_to_show": 4,
         "title": "Featured collection",
         "heading_size": "h2",
@@ -70,19 +79,19 @@
         "collection-0": {
           "type": "featured_collection",
           "settings": {
-            "collection": "evergreen-black"
+            "collection": "abayas"
           }
         },
         "collection-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": "summer-collection"
+            "collection": "hijabs"
           }
         },
         "collection-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": "ramadan-essentials"
+            "collection": "occasion-collection"
           }
         },
         "collection-3": {
